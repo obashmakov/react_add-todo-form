@@ -1,2 +1,0 @@
-.todo-container{display:flex;flex-direction:column;align-items:center}.todo-container__todo{text-align:center;line-height:50px;margin-top:20px;padding:20px;width:600px;height:50px;border:1px solid #000;border-radius:8px}.form__input{margin-right:20px;width:300px;height:20px;padding:10px}.form__select-user{height:40px}.form__add-button{margin-left:20px;width:70px;height:30px;background-color:#7272db;border:transparent;border-radius:8px;color:#fff;outline:none;cursor:pointer}.form__error{color:red}.App{text-align:center}
-/*# sourceMappingURL=main.7b56690b.chunk.css.map */
